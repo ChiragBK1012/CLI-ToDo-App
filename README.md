@@ -1,16 +1,16 @@
 # ✅ CLI To-Do App
 
-A simple **Command Line To-Do Application** built with Node.js.  
+A simple **Command Line To-Do Application** built with Node.js.
 This app lets you add, view, and delete tasks directly from your terminal, with persistence using a JSON file.
 
 ---
 
 ## ✨ Features
-- ✍️ Add new tasks  
-- 👀 View all tasks  
-- ❌ Delete tasks by number  
-- 💾 Persistent storage using a JSON file  
-- 🖥️ Simple CLI interface  
+- ✍️ Add new tasks
+- 👀 View all tasks
+- ❌ Delete tasks by number
+- 💾 Persistent storage using a JSON file
+- 🖥️ Simple CLI interface
 
 ---
 
